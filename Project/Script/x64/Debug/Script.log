@@ -1,0 +1,9 @@
+﻿  .\Project\Script\CCameraMoveScript.h
+  .\Project\Script\CGravityScript.h
+  .\Project\Script\CMissileScript.h
+  .\Project\Script\CMonsterScript.h
+  .\Project\Script\CPlayerScript.h
+  .\Project\Script\CScriptMgr.h
+  .\Project\Script\CTestScript.h
+  7개 파일이 복사되었습니다.
+  Script.vcxproj -> E:\DirectX3D_Study\DX3D_TheSolarSystem\External\Library\Script\Script_d.lib

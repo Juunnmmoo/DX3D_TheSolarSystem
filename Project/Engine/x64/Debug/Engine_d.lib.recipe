@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\DirectX3D_Study\DX3D_TheSolarSystem\External\Library\Engine\decal.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX3D_Study\DX3D_TheSolarSystem\External\Library\Engine\light.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX3D_Study\DX3D_TheSolarSystem\External\Library\Engine\skybox.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX3D_Study\DX3D_TheSolarSystem\External\Library\Engine\std3d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX3D_Study\DX3D_TheSolarSystem\External\Library\Engine\std3d_deferred.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\DirectX3D_Study\DX3D_TheSolarSystem\External\Library\Engine\test.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
